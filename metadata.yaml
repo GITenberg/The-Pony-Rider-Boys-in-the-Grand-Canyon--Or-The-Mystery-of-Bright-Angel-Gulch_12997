@@ -1,5 +1,8 @@
 _repo: The-Pony-Rider-Boys-in-the-Grand-Canyon--Or-The-Mystery-of-Bright-Angel-Gulch_12997
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Patchin, Frank Gee
@@ -14,6 +17,8 @@ description: Ow, Wow, Wow, Wow! Y-E-O-W!" Tad Butler, who was industriously chop
   startled the boy or caused him to cease his efforts until he had completed what
   he had set out to do. This finished, Tad turned a smiling face to the three brown-faced
   young men who were regarding him solemnly.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12997#The-Pony-Rider-Boys-in-the-Grand-Canyon--Or-The-Mystery-of-Bright-Angel-Gulch
 gutenberg_issued: '2004-07-22'
 gutenberg_type: Text
 identifiers:
